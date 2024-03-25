@@ -1,8 +1,8 @@
+#### WARNING: these are irregular fonts, if you do not like irregylar font then do not use these fonts
 - [ponic mono font](#ponic-mono-font "goto ponic-mono-font")
 - [termono font](#termono-font "goto termono-font")
 # ponic_mono_font
-#### WARNING: this is irregular fonts, if is you not like irregylar fonts then not use this fonts
-if you love this styled fonts, tell your friends to share this fonts with their friends
+if you love this styled font, tell your friends to share this font with their friends
 ![pic_1](https://github.com/Princess-Sunset-Shimmer/ponic_mono_fonts/blob/d3ded3c55bcd6d6a749e6756040daf97f72534b6/ponic%20mono/177U5TR4T102_N.jpeg)
 ## thanks ...
 # termono font
