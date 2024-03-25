@@ -2,6 +2,8 @@
 - [ponic mono font](#ponic-mono-font "goto ponic-mono-font")
 - [termono font](#termono-font "goto termono-font")
 # ponic_mono_font
+this is ponic mono font show C
+![pic_0](https://github.com/Princess-Sunset-Shimmer/ponic_mono_fonts/blob/51daeeba05d7bb67e556eb4230b492aba321b8be/ponic%20mono/ponicMono_illustration0.jpeg)
 if you love this styled font, tell your friends to share this font with their friends
 ![pic_1](https://github.com/Princess-Sunset-Shimmer/ponic_mono_fonts/blob/d3ded3c55bcd6d6a749e6756040daf97f72534b6/ponic%20mono/177U5TR4T102_N.jpeg)
 ## thanks ...
