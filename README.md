@@ -8,4 +8,4 @@ if you love this styled fonts, tell your friends to share this fonts with their 
 ![pic_1](https://raw.githubusercontent.com/Princess-Sunset-Shimmer/ponic_mono_fonts/main/177U5TR4T102_N.jpeg)
 ## thanks ...
 # termono font
-![pic_2](https://github.com/5d25b0ba-ef15-45e0-a969-c0c27268795e)
+![pic_2](https://github.com/Princess-Sunset-Shimmer/ponic_mono_fonts/blob/b5c44a662f6e67aebc7aad5ab7dbd59d0a84fd5a/termono/termono_illustration.jpeg)
